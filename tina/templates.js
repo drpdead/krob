@@ -395,7 +395,7 @@ export function parameters_templateFields() {
     },
   ];
 }
-export function product_section_templateFields() {
+export function books_section_templateFields() {
   return [
     {
       type: "boolean",
@@ -417,7 +417,7 @@ export function product_section_templateFields() {
     },
   ];
 }
-export function product_templateFields() {
+export function books_templateFields() {
   return [
     {
       type: "string",
@@ -467,7 +467,7 @@ export function product_templateFields() {
     },
   ];
 }
-export function resume_templateFields() {
+export function news_templateFields() {
   return [
     {
       type: "boolean",
@@ -561,7 +561,7 @@ export function resume_templateFields() {
     },
   ];
 }
-export function service_templateFields() {
+export function theFarm_templateFields() {
   return [
     {
       type: "boolean",
@@ -583,8 +583,8 @@ export function service_templateFields() {
     },
     {
       type: "object",
-      name: "service",
-      label: "Service",
+      name: "theFarm",
+      label: "theFarm",
       list: true,
       fields: [
         {

@@ -2,17 +2,17 @@ main:
   - name: Home
     url: ""
     weight: 1
-  - name: Categories
-    url: "#service"
+  - name: TheFarm
+    url: "#theFarm"
     weight: 2
-  - name: Certificates
-    url: "#resume"
+  - name: News
+    url: "#news"
     weight: 3
   - name: About
     url: "#about"
     weight: 4
-  - name: Products
-    url: "#product"
+  - name: Books
+    url: "#books"
     weight: 5
   - name: Testimonials
     url: "#testimonial"
@@ -27,8 +27,8 @@ sitemap:
   - name: Contact Us
     url: "contact"
     weight: 2
-  - name: Products
-    url: "product"
+  - name: Books
+    url: "books"
     weight: 3
   - name: Blog
     url: "blog"

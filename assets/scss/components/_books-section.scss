@@ -1,6 +1,6 @@
 // In the Name of Allah, the Merciful the Compassionate
 
-.product {
+.books {
   padding: 100px 0 135px;
   @include desktop {
     padding: 100px 0;
@@ -70,10 +70,10 @@
       }
     }
     &:hover {
-      .product-item-thumb {
+      .books-item-thumb {
         box-shadow: 0 20px 40px 0 rgba(50, 65, 141, 0.12);
       }
-      .product-item-content {
+      .books-item-content {
         .see-more-btn {
           transform: scaleY(1);
         }

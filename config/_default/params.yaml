@@ -1,12 +1,12 @@
 titleSeparator: '-'
-titleAddition: Nuts and Dried Food
+titleAddition: Published works of Kirk Ward Robinson
 description: >-
-  Healthy Food, Healthy Life, The premium quality and tasty dried fruits and
-  nuts from the best farms of Iran to bring you a healthier and tastier life!
+ Kirk Ward Robinson was born and raised in South Texas and has since
+ lived in every Timezone in the continental United States.
 images:
   - favicon.ico
 ogLocale: en_US
-titleHome: Helmani Food
+titleHome: Kirk Ward Robinson
 twitterSite: '@gethyas'
 twitterCreator: '@henkverlinde'
 schemaType: Organization
@@ -60,18 +60,18 @@ alertText: >-
   the free enterprise paper →</a>
 blogPageURL: blog
 contactLink: contact
-copyright: All right reserved copyright © Helmani 2022
+copyright: All right reserved copyright © Kirk Ward Robinson 2024
 footerLogo: images/site-navigation/logo.png
 footerContact:
-  topTitle: Let's Start
-  title: The Start of a Dream
+  topTitle: Book Kirk Ward Robinson to Speak!
+  title: Available as Guest Speaker or Book Signings.
   button: Get in Touch
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
   address: '20 Piroozi, Sattar Khan, Tehran.'
-  email: info@helmani.com
+  email: info@kirkwardrobinson.com
   openingHours: Open from 10am to 6pm (close at 5pm Sundays)
   phone: (+98) 911 86 2774
 map:
