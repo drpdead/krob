@@ -4,9 +4,10 @@ content: >
   # Author, Adventurer, Farmer
 
   Kirk Ward Robinson was born and raised in South Texas and has since lived in
-  every time zone in the continental United States. 
+  every time zone in the continental United States.
 buttonName: Contact Us
 buttonURL: contact
-image: /images/books/blaize.jpg
+image: /images/hero/mtkhatadin.jpg
 videoThumb: images/hero/pistachios.jpg
 videoURL: 'https://youtu.be/1-NOOoqlvfA'
+_template: hero_section_template

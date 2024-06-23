@@ -12,4 +12,5 @@ button1Name: Contact Us
 button2Name: Books
 button1Target: contact
 button2Target: books
-image: images/about/walnuttree.jpg
+image: images/about/mtmoos.jpg
+_template: about_section_template

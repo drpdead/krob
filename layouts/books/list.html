@@ -24,7 +24,8 @@
       <div class="row">
         <div class="col-12 text-center">
           <h3 class="breadCrumb__title">{{ .Title }}</h3>
-          <nav aria-label="breadcrumb" class="d-flex justify-content-center">
+          <nav aria-
+Built in 7852 mslabel="breadcrumb" class="d-flex justify-content-center">
             <ol class="breadcrumb align-items-center">
               <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
@@ -39,13 +40,13 @@
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <div class="product-item-grid">
+          <div class="books-item-grid">
             {{ range .Paginator.Pages }}
-              <div class="product-item">
+              <div class="books-item">
                 {{ $asset := resources.Get .Params.thumbnail }}
                 {{ $img := $asset.Resize "700x webp" }}
-                <img src="{{ $img.RelPermalink }}" class="product-item-thumb" alt="product-thumb" />
-                <div class="product-item-content">
+                <img src="{{ $img.RelPermalink }}" class="books-item-thumb" alt="books-thumb" />
+                <div class="books-item-content">
                   <span>{{ .Params.categories }}</span>
                   <h3 class="mb-0">
                     <a class="text-dark" href="{{ .Permalink }}">{{ .Title }}</a>
@@ -61,3 +62,4 @@
     </div>
   </section>
 {{ end }}
+
