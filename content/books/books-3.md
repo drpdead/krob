@@ -1,7 +1,7 @@
 ---
 title: Luxury Gift Pack
 date: 2020-08-12T18:19:35.000+06:00
-thumbnail: images/product/portfolio-3.jpg
+thumbnail: images/books/portfolio-3.jpg
 table:
   - title: Service
     description: Development, UX Design

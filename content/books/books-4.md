@@ -1,7 +1,7 @@
 ---
 title: Dried Fruits Package
 date: 2020-08-12T12:13:40+00:00
-thumbnail: images/product/portfolio-4.jpg
+thumbnail: images/books/portfolio-4.jpg
 table:
   - title: Service
     description: Development, UX Design

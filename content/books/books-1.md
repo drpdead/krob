@@ -1,7 +1,7 @@
 ---
 title: Special Nuts Package
 date: 2020-07-13T12:49:27.000+06:00
-thumbnail: images/product/portfolio-1.jpg
+thumbnail: images/books/portfolio-1.jpg
 table:
   - title: Service
     description: Development, UX Design
