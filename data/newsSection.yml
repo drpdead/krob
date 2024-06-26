@@ -1,34 +1,32 @@
 enable: true
 topTitle: News
 title: >
-  ## Latest News about KirkWardRobinson.com
+  ## Your Number One Spot for the Hot Goss on Kirk Ward Robinson!
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
+  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonum
   eirmod tempor invidunt ut labore et dolore
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Company
-tab2Name: Product
-tab1Target: education
-tab2Target: experience
-education:
+tab1Name: LatestNews
+tab1Target: LatestNews
+LatestNews:
   - content: >
-      #### Product No.1
+      #### Speaks Saga OUT NOW!
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      Lorem Ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt
     image: /images/certificates/halal.jpg
     url: 'https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ'
   - content: >
-      #### ISO 2001
+      #### Second Edition of The Appalachian available now
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt
     image: /images/certificates/images.png
     url: 'https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ'
   - content: >
-      #### FDA 3942
+      ####
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt
@@ -41,23 +39,23 @@ education:
       tempor invidunt
     image: /images/certificates/Organic.png
     url: 'https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ'
-experience:
+theFarm:
   - content: >
-      #### Umbrella co.
+      #### New Greenhouse taking shape
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt
     image: /images/certificates/Organic.png
     url: 'https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ'
   - content: >
-      #### Aperture Science
+      #### Do you have obscure facial hair and love the retro vibes? Try a Paw-Paw
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt
     image: /images/certificates/enamad.png
     url: 'https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ'
   - content: >
-      #### ACME Inc.
+      #### Appalachian Trail Thru-Hike number SIX has been completed.
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt

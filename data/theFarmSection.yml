@@ -3,40 +3,17 @@ topTitle: The Farm
 title: |-
   ## The Robinson-Hackett Farm
   Kirk Ward Robinson maintains his ancestral family farm and smallholding
-service:
+theFarm:
   - content: >
-      #### Pistachios 
+      #### 1916
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/pistachio.png
+    image: images/theFarm/1916-1920w.jpg
   - content: >
-      #### Raisins
+      #### 2014
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/raisins.png
-  - content: >
-      #### Dates 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/dates.png
-  - content: >
-      #### Walnuts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/walnut.png
-  - content: >
-      #### Saffron
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/saffron.png
-  - content: >
-      #### Barberries
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/barberry.png
+    image: images/theFarm/2014-10-31-1920w.JPG
+    _template: theFarm_template

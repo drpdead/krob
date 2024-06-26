@@ -437,7 +437,7 @@ export function books_templateFields() {
     {
       type: "object",
       name: "table",
-      label: "Table",
+      label: "table",
       list: true,
       fields: [
         {
@@ -451,19 +451,6 @@ export function books_templateFields() {
           label: "Description",
         },
       ],
-    },
-    {
-      type: "string",
-      name: "categories",
-      label: "Categories",
-    },
-    {
-      type: "string",
-      name: "shortDescription",
-      label: "shortDescription",
-      ui: {
-        component: "textarea",
-      },
     },
   ];
 }
@@ -584,7 +571,7 @@ export function theFarm_templateFields() {
     {
       type: "object",
       name: "theFarm",
-      label: "theFarm",
+      label: "Update",
       list: true,
       fields: [
         {
@@ -598,7 +585,7 @@ export function theFarm_templateFields() {
         {
           type: "image",
           name: "image",
-          label: "Icon",
+          label: "farmImage",
         },
       ],
     },

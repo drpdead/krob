@@ -63,17 +63,17 @@ contactLink: contact
 copyright: All right reserved copyright © Kirk Ward Robinson 2024
 footerLogo: images/site-navigation/logo.png
 footerContact:
-  topTitle: Book Kirk Ward Robinson to Speak!
-  title: Available as Guest Speaker or Book Signings.
-  button: Get in Touch
+  topTitle: Want to have Kirk Ward Robinson Speak or Read/Sign from his latest novel?
+  title: It's as easy as clicking on the button below. Availability is limited manage expectations accordingly.
+  button: Hire Kirk Ward Robinson
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png
 address:
-  address: '20 Piroozi, Sattar Khan, Tehran.'
+  address: 'Below the Mason-Dixon, Tennessee'
   email: info@kirkwardrobinson.com
-  openingHours: Open from 10am to 6pm (close at 5pm Sundays)
-  phone: (+98) 911 86 2774
+  openingHours: Open from 4am to 6pm (close at 5pm Sundays)
+  phone: (+1) 6158675309
 map:
   APIkey: YOUR GOOGLE MAP API
   latitude: '23.7783741'
