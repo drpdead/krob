@@ -2,15 +2,17 @@ enable: true
 topTitle: About
 title: |
   ## Kirk Ward Robinson
-  Author, Adventurer, Farmer
+  Author, Adventurer, Cultivator
 content: >
-  ### Kirk Ward Robinson isn't just an Author
+  ### Kirk Ward Robinson is a cultivator...
+  of both imagination and fertile farm land. Robinson cultivates his writing in the same manor in which he cultivates the land of his ancestral family farm.
+  Working the soil so that it brings forth the beauty and bounty and everything else nature has to offer.
+  Kirk Ward Robinson is an accomplished author and novelist known for his adventurous spirit and diverse career.
+  A four-time Appalachian Trail thru-hiker, Robinson has lived in every continental American time zone and has been recognized by Kirkus Reviews for his outstanding works.
+  He currently maintains a small ancestral farm in Tennessee.
 
-  He's a storyteller that draws on his vast experience of locals, environments,
-  and adventures in his writing that spans, not only distance, but time itself
 button1Name: Contact Us
 button2Name: Books
 button1Target: contact
 button2Target: books
-image: images/about/mtmoos.jpg
-_template: about_section_template
+image: images/about/walnuttree.jpg

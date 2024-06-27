@@ -1,13 +1,13 @@
 enable: true
 topTitle: Kirk Ward Robinson
 content: >
-  # Author, Adventurer, Farmer
+  # Author. Adventurer. Cultivator.
 
-  Kirk Ward Robinson was born and raised in South Texas and has since lived in
-  every time zone in the continental United States.
-buttonName:
+  Kirk Ward Robinson, a celebrated author and six-time Appalachian Trail thru-hiker, brings his adventurous experiences to life through his novels and stories.
+  He resides on a small farm in Tennessee.
+buttonName: Read More
 buttonURL: #books
 image: /images/hero/heroanchor.jpg
-videoThumb: images/site-navigation/logo.png
-videoURL: 'https://youtu.be/1-NOOoqlvfA'
+videoThumb:
+videoURL: ''
 _template: hero_section_template
