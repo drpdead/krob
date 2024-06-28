@@ -9,7 +9,9 @@ title: >
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: LatestNews
+tab2Name: Robinson-Hackett Farm
 tab1Target: LatestNews
+tab2Target: theFarm
 LatestNews:
   - content: >
       #### Speaks Saga OUT NOW!

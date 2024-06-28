@@ -1,17 +1,12 @@
 enable: true
 topTitle: Testimonials
-title:
-  ## What are people saying after reading Kirk Ward Robinson?
+title: >
+  ## What do the readers have to say?
 testimonial:
   - name: Erin Willard for Life in Continuum
     comment: >-
       I love time travel stories, and these do not disappoint. There are three stories in this book, "In Whose Time," "Life in Continuum," and "Crossover."
-      Each has a different and unique take on time travel, unlike anything I have read before. "Crossover" has some metaphysical elements and a completely
-      unexpected conclusion that requires some thought. I'd like to bring it to my book club. "Life in Continuum" is set in a dystopian future, and has so
-      many twists and turns that I couldn't put it down. "In Whose Time" is my favorite, though. Set in a near future that feels like it could be now, the
-      story was completely believable and the characters were great, especially the kung-fu fighting heroin Sha'raelon, who uses her beauty, her wits, and
-      her fighting prowess to manipulate history toward a world where the ancient Greeks remain dominant into the present.
-      I really hope there is a sequel in the works
+      Each has a different and unique take on time travel, unlike anything I have read before. I really hope there is a sequel in the works.
     time: 'Jan 20, 2020'
     star: 5
   - name: Jeremiah Tomey for the Appalachian

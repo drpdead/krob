@@ -1,19 +1,91 @@
 enable: true
-topTitle: The Farm
+topTitle: Novels by Kirk Ward Robinson
 title: |-
-  ## The Robinson-Hackett Farm
-  Kirk Ward Robinson's ancestral farm in Tennessee is a testament to his connection with nature and his commitment to sustainable living.Established on August 16, 1915, the Robinson-Hackett Farm is a place where the author cultivates a variety of fruits using organic practices.The farm boasts an impressive array of produce, including blueberries, pawpaws, persimmons, apples, pears, and even experimental avocado trees. Robinson's farm is a hub of continuous improvement and innovation. Recent additions include a completed greenhouse, a restored vintage Farmall tractor,and a charming Little Free Library. The author shares his farming journey through regular updates, showcasing everything from bountiful harvests to challenges like deer damage to crops. The farm also serves as a sanctuary for local wildlife, with Robinson documenting encounters with native species such as the eastern screech owl. Through his farm, Kirk Ward Robinson demonstrates not only his literary talents but also his deep appreciation for agriculture, sustainability, and the natural world
+  ## Check Out these other titles by Kirk Ward Robinson
+
 theFarm:
   - content: >
-      #### 1916
+      #### Founding Courage
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/theFarm/1916-1920w.jpg
+    image: images/books/courage.jpg
   - content: >
-      #### 2014
+      #### Founding Character
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/theFarm/2014-10-31-1920w.JPG
-    _template: theFarm_template
+    image: images/books/character.jpg
+  - content: >
+      #### August Roads
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/august.jpg
+  - content: >
+      #### Hiking Through History
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/hikr.jpg
+  - content: >
+      #### Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/notes.jpg
+  - content: >
+      #### Life in Continuum
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/lifeincont.jpg
+  - content: >
+      #### More Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/morenotes.jpg
+  - content: >
+      #### Latter Half of Inglorious Years
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/inglorious.jpg
+  - content: >
+      #### Final Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/finalnotes.jpg
+  - content: >
+      #### A Robin Waits...
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/robin.jpg
+  - content: >
+      #### The Appalachian
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/appala.jpg
+  - content: >
+      #### Timewall Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/timewall.jpg
+  - content: >
+      #### Ridley Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/ridley.jpg
+  - content: >
+      #### Blaize Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/blaize.jpg
+_template: theFarm_template

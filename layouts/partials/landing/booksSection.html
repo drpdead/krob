@@ -13,10 +13,10 @@
         <div class="row">
           <div class="col-12">
             <div class="books-item-grid">
-              {{ range first 4 (where $.Site.RegularPages "Type" "books") }}
+              {{ range first 3 (where $.Site.RegularPages "Type" "books") }}
                 <div class="books-item">
                   {{ $asset := resources.Get .Params.thumbnail }}
-                  {{ $img := $asset.Resize "300x webp" }}
+                  {{ $img := $asset.Resize "200x webp" }}
                   <img src="{{ $img.RelPermalink }}" class="books-item-thumb" alt="books-thumb" />
                   <div class="books-item-content">
                     <span>{{ .Params.categories }}</span>
