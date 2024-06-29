@@ -1,13 +1,14 @@
 enable: true
-topTitle: Kirk Ward Robinson
+topTitle: Kirk Ward Robinson!
 content: >
   # Author. Adventurer. Cultivator.
 
-  Kirk Ward Robinson, a celebrated author and six-time Appalachian Trail thru-hiker, brings his adventurous experiences to life through his novels and stories.
+  Kirk Ward Robinson, a celebrated author and six-time Appalachian Trail thru-hiker,
+  brings his adventurous experiences to life through his novels and stories.
   He resides on a small farm in Tennessee.
-buttonName: Read More
-buttonURL: #books
-image: /images/hero/heroanchor.jpg
+buttonName: KWR on Amazon
+buttonURL: https://amazon.com/kirkwardrobinson
+image: images/hero/heroanchor.jpg
 videoThumb:
 videoURL: ''
-_template: hero_section_template
+_template: hero_template

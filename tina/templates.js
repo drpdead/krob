@@ -395,7 +395,7 @@ export function parameters_templateFields() {
     },
   ];
 }
-export function books_section_templateFields() {
+export function product_section_templateFields() {
   return [
     {
       type: "boolean",
@@ -417,7 +417,7 @@ export function books_section_templateFields() {
     },
   ];
 }
-export function books_templateFields() {
+export function product_templateFields() {
   return [
     {
       type: "string",
@@ -437,7 +437,7 @@ export function books_templateFields() {
     {
       type: "object",
       name: "table",
-      label: "table",
+      label: "Table",
       list: true,
       fields: [
         {
@@ -452,9 +452,22 @@ export function books_templateFields() {
         },
       ],
     },
+    {
+      type: "string",
+      name: "categories",
+      label: "Categories",
+    },
+    {
+      type: "string",
+      name: "shortDescription",
+      label: "shortDescription",
+      ui: {
+        component: "textarea",
+      },
+    },
   ];
 }
-export function news_templateFields() {
+export function resume_templateFields() {
   return [
     {
       type: "boolean",
@@ -548,7 +561,7 @@ export function news_templateFields() {
     },
   ];
 }
-export function theFarm_templateFields() {
+export function service_templateFields() {
   return [
     {
       type: "boolean",
@@ -570,8 +583,8 @@ export function theFarm_templateFields() {
     },
     {
       type: "object",
-      name: "theFarm",
-      label: "Update",
+      name: "service",
+      label: "Service",
       list: true,
       fields: [
         {
@@ -585,7 +598,7 @@ export function theFarm_templateFields() {
         {
           type: "image",
           name: "image",
-          label: "farmImage",
+          label: "Icon",
         },
       ],
     },

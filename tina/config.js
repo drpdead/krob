@@ -7,10 +7,10 @@ import {
   hero_templateFields,
   menus_templateFields,
   parameters_templateFields,
-  books_section_templateFields,
-  books_templateFields,
-  news_templateFields,
-  theFarm_templateFields,
+  product_section_templateFields,
+  product_templateFields,
+  resume_templateFields,
+  service_templateFields,
   testimonial_templateFields,
 } from "./templates";
 
@@ -71,8 +71,8 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "theFarm",
-        name: "theFarm",
+        label: "Services",
+        name: "services",
         path: "data",
         frontmatterFormat: "yaml",
         ui: {
@@ -82,14 +82,14 @@ export default defineConfig({
           },
         },
         match: {
-          include: "theFarmSection",
+          include: "serviceSection",
         },
-        fields: theFarm_templateFields(),
+        fields: service_templateFields(),
       },
       {
         format: "yml",
-        label: "News",
-        name: "news",
+        label: "Resume",
+        name: "resume",
         path: "data",
         frontmatterFormat: "yaml",
         ui: {
@@ -99,9 +99,9 @@ export default defineConfig({
           },
         },
         match: {
-          include: "newsSection",
+          include: "resumeSection",
         },
-        fields: news_templateFields(),
+        fields: resume_templateFields(),
       },
       {
         format: "yml",
@@ -122,8 +122,8 @@ export default defineConfig({
       },
       {
         format: "yml",
-        label: "Books Section",
-        name: "books_section",
+        label: "Product Section",
+        name: "product_section",
         path: "data",
         frontmatterFormat: "yaml",
         ui: {
@@ -133,9 +133,9 @@ export default defineConfig({
           },
         },
         match: {
-          include: "booksSection",
+          include: "productSection",
         },
-        fields: books_section_templateFields(),
+        fields: product_section_templateFields(),
       },
       {
         format: "yml",
@@ -156,14 +156,14 @@ export default defineConfig({
       },
       {
         format: "md",
-        label: "Books",
-        name: "books",
-        path: "content/books",
+        label: "Product",
+        name: "product",
+        path: "content/product",
         frontmatterFormat: "yaml",
         match: {
           include: "**/*",
         },
-        fields: books_templateFields(),
+        fields: product_templateFields(),
       },
       {
         format: "md",

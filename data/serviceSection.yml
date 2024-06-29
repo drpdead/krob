@@ -1,0 +1,94 @@
+enable: true
+topTitle: Complete Works of Kirk Ward Robinson
+title: >
+  ## More Titles by Kirk Ward Robinson
+
+  From non-fiction to science-fiction there's something here for every reader.
+  Even the most auspicious collectors of the written word can find a title or two
+  to whet their appetites!
+service:
+  - content: >
+      #### Founding Courage
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/courage.jpg
+  - content: >
+      #### Founding Character
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/character.jpg
+  - content: >
+      #### August Roads
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/august.jpg
+  - content: >
+      #### Hiking Through History
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/hikr.jpg
+  - content: >
+      #### Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/notes.jpg
+  - content: >
+      #### Life in Continuum
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/lifeincont.jpg
+  - content: >
+      #### More Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/morenotes.jpg
+  - content: >
+      #### Latter Half of Inglorious Years
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/inglorious.jpg
+  - content: >
+      #### Final Notes from the Field
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/finalnotes.jpg
+  - content: >
+      #### A Robin Waits...
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/robin.jpg
+  - content: >
+      #### The Appalachian
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/appala.jpg
+  - content: >
+      #### Timewall Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/timewall.jpg
+  - content: >
+      #### Ridley Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/ridley.jpg
+  - content: >
+      #### Blaize Speaks
+
+      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+      tempor invidunt ut labore et dolore magna aliquyam erat.
+    image: images/books/blaize.jpg
+_template: service_template

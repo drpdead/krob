@@ -1,27 +1,27 @@
 enable: true
 topTitle: Testimonials
-title: >
-  ## What do the readers have to say?
+title: |
+  ## What Our Partners Say About Us?
 testimonial:
-  - name: Erin Willard for Life in Continuum
+  - name: Ryan Cook
     comment: >-
-      I love time travel stories, and these do not disappoint. There are three stories in this book, "In Whose Time," "Life in Continuum," and "Crossover."
-      Each has a different and unique take on time travel, unlike anything I have read before. I really hope there is a sequel in the works.
+      Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet
+      consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore
+      dolore magna.
     time: 'Jan 20, 2020'
     star: 5
-  - name: Jeremiah Tomey for the Appalachian
+  - name: Justin Trudo
     comment: >-
-      This book was a trove of information, and well written by a 4-time AT Thru hiker.
-      It was a good read, and I would read more from the author. The book is a very detailed account of the trail.
-      But, of the 50 books I have read on hiking, it is one of the best
+      Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet
+      consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore
+      dolore magna.
     time: 'Jan 16, 2020'
-    star: 5
-  - name: David M. for Timewall Speaks
-    comment: >-
-      Timewall Speaks is a gripping novel that combines elements of science fiction and personal struggle.
-      The characters are well-developed, and the plot keeps you engaged from start to finish.
-      Robinson's writing style is both descriptive and immersive, making it easy to visualize the world he has created.
-      Highly recommended for fans of thought-provoking sci-fi.
-    time: 'Mar 08, 2020'
     star: 4
+  - name: Franky Filth
+    comment: >-
+      Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet
+      consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore
+      dolore magna.
+    time: 'Mar 08, 2020'
+    star: 3
 _template: testimonial_template
