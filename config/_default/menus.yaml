@@ -3,7 +3,7 @@ main:
     url: ""
     weight: 1
   - name: Spotlight
-    url: "#service"
+    url: "#product"
     weight: 2
   - name: News
     url: "#resume"
@@ -12,7 +12,7 @@ main:
     url: "#about"
     weight: 4
   - name: Books
-    url: "#product"
+    url: "#service"
     weight: 5
   - name: Testimonials
     url: "#testimonial"

@@ -7,25 +7,25 @@ images:
   - favicon.ico
 ogLocale: en_US
 titleHome: Kirk Ward Robinson
-twitterSite: '@gethyas'
-twitterCreator: '@henkverlinde'
+twitterSite: '@kirkwardrobinson'
+twitterCreator: '@kirkwardrobinson'
 schemaType: Organization
-schemaName: Hyas
-schemaAuthor: Henk Verlinde
-schemaAuthorTwitter: 'https://twitter.com/henkverlinde'
-schemaAuthorLinkedIn: 'https://www.linkedin.com/in/henkverlinde/'
-schemaAuthorGitHub: 'https://github.com/h-enk'
+schemaName: krob
+schemaAuthor: J.Red Robinson
+schemaAuthorTwitter: 'https://twitter.com/drawpdeadredd'
+schemaAuthorLinkedIn: 'https://www.linkedin.com/in/JarredRobinson/'
+schemaAuthorGitHub: 'https://github.com/drpdead'
 schemaLocale: en-US
-schemaLogo: logo-hyas.png
+schemaLogo: favicon.png
 schemaLogoWidth: 512
 schemaLogoHeight: 512
-schemaImage: hyas.png
+schemaImage: favicon.png
 schemaImageWidth: 1280
 schemaImageHeight: 640
-schemaTwitter: 'https://twitter.com/gethyas'
+schemaTwitter: 'https://twitter.com/'
 schemaLinkedIn: ''
-schemaGitHub: 'https://github.com/h-enk/hyas'
-themeColor: '#3ac58d'
+schemaGitHub: 'https://github.com/drpdead/krob'
+themeColor: '#319955'
 landscapePhotoWidths:
   - 900
   - 800
@@ -63,9 +63,10 @@ contactLink: contact
 copyright: All right reserved copyright © Kirk Ward Robinson 2024
 footerLogo: images/site-navigation/logo.png
 footerContact:
-  topTitle: Want to have Kirk Ward Robinson Speak or Read/Sign from his latest novel?
-  title: It's as easy as clicking on the button below. Availability is limited manage expectations accordingly.
-  button: Hire Kirk Ward Robinson
+  topTitle: Book KWR for insightful talks and personalized signings
+  title: Experience Kirk Ward Robinson Live!
+  button: Booking Details
+  button: Booking Details
 fabformURL: 'https://fabform.io/f/JpTXRUa'
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
 logo: images/site-navigation/logo.png

@@ -1,8 +1,8 @@
-# In the Name of God, the Originator the Creative
-# TODO: use semantic names for data fields
+# In the Name of Satan, the Morning Star, the Beautiful One
+# TODO: convert to News/theFarmNews
 ---
 enable: true
-topTitle: Our Certificates
+topTitle: Latest News from KWR & The Robinson-Hackett Farm
 title: >
   ## Quality Ensured
 
@@ -10,12 +10,12 @@ title: >
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Company
-tab2Name: Product
-tab1Target: education
-tab2Target: experience
+tab1Name: Latest News
+tab2Name: Robinson-Hackett Farm
+tab1Target: latestNews
+tab2Target: theFarm
 
-education:
+latestNews:
   - content: >
       #### Product No.1
 
@@ -41,9 +41,9 @@ education:
     image: /images/certificates/Organic.png
     url: https://trustseal.enamad.ir/?id=288479&Code=O8micNNDSNWcTh9xIOhQ
 
-experience:
+theFarm:
   - content: >
-      #### Umbrella co.
+      #### Greenhouse Endeavours!
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt
     image: /images/certificates/Organic.png
