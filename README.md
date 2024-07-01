@@ -2,7 +2,7 @@
   Kirk Ward Robinson *dot* com
 </h1>
 <h2 align="center">
-  Author Page and Blog
+  Author Page,  Blog
 </h2>
 <p align="center">
   kirkwardrobinson.com is an author page and blog for prolific author: Kirk Ward Robinson. 
