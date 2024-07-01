@@ -1,16 +1,15 @@
 <h1 align="center">
-  Corporio
+  Kirk Ward Robinson *dot* com
 </h1>
-
-<h3 align="center">
-  Corporation Website Template
-</h3>
-
+<h2 align="center">
+  Author Page and Blog
+</h2>
 <p align="center">
-  Corporio is an enterprise level corporation website template leveraging latest technologies making it secure, fast, and SEO-ready — by default
+  kirkwardrobinson.com is an author page and blog for prolific author: Kirk Ward Robinson. 
+  Built with [Hugo](https://github.com/gohugoio/hugo) site-generator and the cut, pasted, reworked, edited, troubleshot, tested, used as evidence for atheism, a abandoned, trashed, restored, lost, found, fork of the template/theme [Corporio](https://github.com/AminZibayi/Corporio).
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/AminZibayi/Corporio/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/AminZibayi/Corporio?style=flat-square" alt="GitHub">
   </a>
@@ -26,28 +25,16 @@
   <a href="https://app.netlify.com/sites/hyas/deploys">
     <img src="https://img.shields.io/netlify/895a161c-86be-48a2-8c57-a8c5d68cd1a4?style=flat-square" alt="Netlify">
   </a>
-</p> -->
+</p>
 
-![Corporio — Corporation Website Template](https://raw.githubusercontent.com/AminZibayi/Corporio/master/images/tn.png)
+![kirkwardrobinson.com](https://github.com/drpdead/krob/blob/master/assets/images/farmlogo.png)
+
+<h5 align="center"> 
+  colored & coded by dropDeadDesigns
+</h5>
 
 - [Demo](#demo)
-- [Why Corporio?](#why-corporio)
-- [Requirements](#requirements)
-- [Get Started](#get-started)
-  - [Standalone Website](#standalone-website)
-    - [1. Create a new site](#1-create-a-new-site)
-    - [2. Install dependencies](#2-install-dependencies)
-    - [3. Start development server](#3-start-development-server)
-  - [As a Theme](#as-a-theme)
-    - [1. Create a new site](#1-create-a-new-site-1)
-    - [2. Install dependencies](#2-install-dependencies-1)
-    - [3. Configure website](#3-configure-website)
-- [Tina CMS](#tina-cms)
-  - [Using TinaCMS development mode](#using-tinacms-development-mode)
-  - [Using TinaCMS with Corporio in production](#using-tinacms-with-corporio-in-production)
-  - [Building without TinaCMS](#building-without-tinacms)
-  - [Benefits of using TinaCMS](#benefits-of-using-tinacms)
-- [Other commands](#other-commands)
+- [Website Features](#website-features)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
 - [Communities](#communities)
@@ -55,109 +42,22 @@
 
 ## Demo
 
-- [corporio.onrender.com](https://corporio.onrender.com/)
+- [Template Demo](https://corporio.onrender.com/)
+- Demo Site COMING SOON!
 
-## Why Corporio?
+## Website Features
 
-Eight reasons why you should use Corporio:
+Eight features of kirkwardrobinson.com
 
-1. **Security aware**. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/corporio.onrender.com) out of the box. Easily change the default Security Headers to suit your needs.
-2. **Fast by default**. Leveraging the fastest static site generator, delivering optimized and minified static assets on the fastest CDNs on Render and Netlify.
-3. **SEO-ready**. Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
-4. **Tina Integrated**. Do you prefer a graphical user interface over a text editor? or do you want to deliver the website to your non-technical customer? If so, Corporio is already integrated with tina, a feature-rich headless CMS.
-5. **Development tools**. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
-6. **Responsive**. Build robust, flexible, and intuitive websites with that looks best on any device.
-7. **Integrated Blog**. Beside the modern and well-designed company landing page, Corporio ships with a built-in and ready full-featured blog.
-8. **Products Page**. Introduce your products and services perfectly and impress your customers with our stunning product pages.
+1. **Security aware**. Will have A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/corporio.onrender.com) out of the box. Easily change the default Security Headers to suit your needs.
+2. **Fast by default**. Leverages the fastest static site generator, delivering optimized and minified static assets on the fastest CDNs on Render and Netlify.
+3. **SEO-ready**. Uses sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.
+4. **Tina Integrated**.A feature-rich headless CMS.
+5. **Development tools**. Custom Development tools
+6. **Responsive**.  Robust, flexible, and intuitive website that is responsibe to any device.
+7. **Integrated Blog**. Modern and well-designed author landing page, as well as built-in and full-featured blog ready for publishing.
+8. **Individual Titles Page(s) & Spotlight featured/newly released title(s)**. Ability to introduce books, spotlight featured titles, reader testimonials/reviews, showcase all content easily with a modern & sleek user interface
 9. **Deploy-ready**. Deploy to Netlify or Render with sensible defaults. Easily use Netlify Functions, Render Redirects, and Headers.
-
-## Requirements
-
-- [Node.js](https://nodejs.org/) — latest LTS version
-
-## Get Started
-
-Start a new Corporio themed site in two ways either as a theme or as a standalone website
-Please note that it is recommended to use PNPM however you may also use NPM or Yarn, but they are not guaranteed to work.
-
-### Standalone Website
-
-#### 1. Create a new site
-
-```bash
-git clone https://github.com/AminZibayi/Corporio.git my-corporio-site && cd my-corporio-site
-```
-
-#### 2. Install dependencies
-
-```bash
-npm install
-# OR
-pnpm install
-```
-
-#### 3. Start development server
-
-```bash
-npm run start
-# OR
-pnpm start
-```
-
-### As a Theme
-
-#### 1. Create a new site
-
-```bash
-git submodule add https://github.com/AminZibayi/Corporio.git themes/corporio
-```
-
-#### 2. Install dependencies
-
-```bash
-cd /themes/corporio && pnpm install
-```
-
-#### 3. Configure website
-
-Add `theme: "corporio"` to your website config file.
-
-## Tina CMS
-
-The Corporio template includes integration with TinaCMS, an open-source headless content management system. TinaCMS allows you to edit and manage content directly within GitHub repositories using a graphical editing interface.
-
-### Using TinaCMS development mode
-
-The `tina:dev` script starts TinaCMS in dev mode along with the Hugo development
-server. This allows editing content in TinaCMS and seeing changes live.
-Head to http://localhost:1313/admin to see Tina admin panel.
-
-### Using TinaCMS with Corporio in production
-
-The `tina:build` script builds TinaCMS alongside generating a static site output with Hugo.
-
-- Sign up for a free Tina account at https://tina.io/
-- Create a new project and connect your GitHub repository that contains the Corporio codebase
-- Enter your own tina clientId and token in `tina/config.js`
-- Tina will automatically detect the configuration for collections and fields in tina/config.js
-- You can then edit content in Tina's sidebar interface or modal popups
-- Saved changes will commit back to your connected repo
-
-### Building without TinaCMS
-
-If you don’t need Tina integration, you can use the command `pnpm build`. This command will skip the Tina build step.
-
-### Benefits of using TinaCMS
-
-- Edit content visually without needing to edit code
-- Integrated workflow using your existing Git repo
-- Collaborate with other editors and content creators
-- Work with both markdown and YAML content
-- Flexible fields and media management
-
-## Other commands
-
-_TODO_
 
 ## Documentation
 
@@ -176,3 +76,32 @@ _TODO_
 ## License
 
 [The MIT License](https://github.com/AminZibayi/Corporio/blob/master/LICENSE)
+
+## If you clone this repo and want to view the site through the builtin Hugo/NodeJS HTTP Server you can follow the following steps:
+### Install Dependencies through your preferred package manager first:
+#### Arch
+```bash
+sudo pacman -Sy git npm pnpm
+git clone https://github.com/drpdead/krob.git /srv/http/krob && sudo chown -R $USER:$USER /srv && cd /srv/http/krob
+pnpm install # if any error occur install the necessary dependencies or follow instructions to enable error free installation
+pnpm start # starts webserver at 127.0.0.1:1313 open browser and go to https://localhost:1313 to see the website
+```
+#### Ubuntu
+```bash
+sudo apt update && sudo apt upgrade
+sudo apt install -y git npm pnpm
+git clone https://github.com/drpdead/krob.git /srv/http/krob && sudo chown -R $USER:$USER /srv && cd /srv/http/krob
+pnpm install # if any error occur install the necessary dependencies or follow instructions to enable error free installation
+pnpm start # starts webserver at 127.0.0.1:1313 open browser and go to https://localhost:1313 to see the website
+```
+#### Windows
+run cmd.exe or windows terminal with Admin priviledges
+```pwsh
+winget install -e github.github- #or winget install -e --id GitHub.cli # First one has a gui
+winget install -e --id pnpm.pnpm
+gh clone https://github.com/drpdead/krob C:\Users\$USER\srv\krob\
+cd C:\Users\$USER\srv\krob\
+pnpm install
+pnpm start # starts webserver at 127.0.0.1:1313 open browser and go to https://localhost:1313 to see the website
+
+
