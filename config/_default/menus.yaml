@@ -2,14 +2,14 @@ main:
   - name: Home
     url: ""
     weight: 1
-  - name: Spotlight
-    url: "#product"
+  - name: About
+    url: "#about"
     weight: 2
   - name: News
     url: "#resume"
     weight: 3
-  - name: About
-    url: "#about"
+  - name: Spotlight
+    url: "#product"
     weight: 4
   - name: Books
     url: "#service"

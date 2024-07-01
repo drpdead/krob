@@ -1,31 +1,31 @@
-titleSeparator: '-'
+titleSeparator: "-"
 titleAddition: Published works of Kirk Ward Robinson
 description: >-
- Kirk Ward Robinson was born and raised in South Texas and has since
- lived in every Timezone in the continental United States.
+  Kirk Ward Robinson was born and raised in South Texas and has since
+  lived in every Timezone in the continental United States.
 images:
   - favicon.ico
 ogLocale: en_US
 titleHome: Kirk Ward Robinson
-twitterSite: '@kirkwardrobinson'
-twitterCreator: '@kirkwardrobinson'
+twitterSite: "@kirkwardrobinson"
+twitterCreator: "@kirkwardrobinson"
 schemaType: Organization
 schemaName: krob
 schemaAuthor: J.Red Robinson
-schemaAuthorTwitter: 'https://twitter.com/drawpdeadredd'
-schemaAuthorLinkedIn: 'https://www.linkedin.com/in/JarredRobinson/'
-schemaAuthorGitHub: 'https://github.com/drpdead'
+schemaAuthorTwitter: "https://twitter.com/drawpdeadredd"
+schemaAuthorLinkedIn: "https://www.linkedin.com/in/JarredRobinson/"
+schemaAuthorGitHub: "https://github.com/drpdead"
 schemaLocale: en-US
-schemaLogo: favicon.png
+schemaLogo: farmlogo.png
 schemaLogoWidth: 512
 schemaLogoHeight: 512
-schemaImage: favicon.png
+schemaImage: farmlogo.png
 schemaImageWidth: 1280
 schemaImageHeight: 640
-schemaTwitter: 'https://twitter.com/'
-schemaLinkedIn: ''
-schemaGitHub: 'https://github.com/drpdead/krob'
-themeColor: '#319955'
+schemaTwitter: "https://twitter.com/"
+schemaLinkedIn: ""
+schemaGitHub: "https://github.com/drpdead/krob"
+themeColor: "#319955"
 landscapePhotoWidths:
   - 900
   - 800
@@ -38,26 +38,25 @@ portraitPhotoWidths:
   - 600
   - 500
 lqipWidth: 20x
-smallLimit: '320'
+smallLimit: "320"
 imageResponsive: true
 imageConvertTo: webp
 imageImageSizes:
-  - '480'
-  - '720'
-  - '1080'
-  - '1280'
-  - '1600'
-  - '2048'
+  - "480"
+  - "720"
+  - "1080"
+  - "1280"
+  - "1600"
+  - "2048"
 singleSize: false
 imageAddClass: img-fluid lazyload blur-up
 defaultImage: default-image.png
 fillImage: 1280x720 Center
-alert: false
+alert: true
 alertDismissable: true
 alertText: >-
-  Deliver web projects 10x faster. <a class="alert-link"
-  href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">Get
-  the free enterprise paper →</a>
+  This site accepts cookies. To turn off this feature click here →<a class="alert-link"
+  href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">site-settings</a>
 blogPageURL: blog
 contactLink: contact
 copyright: All right reserved copyright © Kirk Ward Robinson 2024
@@ -65,32 +64,31 @@ footerLogo: images/site-navigation/logo.png
 footerContact:
   topTitle: Book KWR for insightful talks and personalized signings
   title: Experience Kirk Ward Robinson Live!
-  button: Booking Details
-  button: Booking Details
-fabformURL: 'https://fabform.io/f/JpTXRUa'
+  button: Inquire within
+fabformURL: "https://fabform.io/f/JpTXRUa"
 googleAnalytics: YOUR GOOGLE ANALYTICS CODE
-logo: images/site-navigation/logo.png
+logo: images/farmlogo.png
 address:
-  address: 'Below the Mason-Dixon, Tennessee'
+  address: "Below the Mason-Dixon, Tennessee"
   email: info@kirkwardrobinson.com
   openingHours: Open from 4am to 6pm (close at 5pm Sundays)
   phone: (+1) 6158675309
 map:
   APIkey: YOUR GOOGLE MAP API
-  latitude: '23.7783741'
-  longitude: '90.3746808'
+  latitude: "23.7783741"
+  longitude: "90.3746808"
   pinImage: images/pin.png
 social:
   - icon: fa-facebook-official
-    url: 'https://www.facebook.com/'
+    url: "https://www.facebook.com/"
     weight: 1
   - icon: fa-linkedin-square
-    url: 'https://www.linkedin.com/'
+    url: "https://www.linkedin.com/"
     weight: 2
   - icon: fa-pinterest-square
-    url: 'https://www.pinterest.com/'
+    url: "https://www.pinterest.com/"
     weight: 3
   - icon: fa-twitter-square
-    url: 'https://twitter.com/'
+    url: "https://twitter.com/"
     weight: 4
 _template: parameters_template

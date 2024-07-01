@@ -1,5 +1,6 @@
 # In the Name of Satan, the Morning Star, the Beautiful One
-# TODO: convert to News/theFarmNews
+# TODO: convert to News/theFarmNews'
+# FIXME: text-color alpha, backgorund accents, images, buttons/links entire section not building correctly
 ---
 enable: true
 topTitle: Latest News from KWR & The Robinson-Hackett Farm
